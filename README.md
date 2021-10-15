@@ -7,6 +7,6 @@ _hola como **estas**_
 
 Ejercicios|Descripción
 -----------|---------
-Html|ejercicio para empezar a aprender html
+[Html](/tema1/ejercicio01.html)|ejercicio para empezar a aprender html
 
 ![savana](/imagenes/img.jpg)
