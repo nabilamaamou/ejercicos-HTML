@@ -9,4 +9,4 @@ Ejercicios|Descripción
 -----------|---------
 Html|ejercicio para empezar a aprender html
 
-![savana]()
+![savana](/imagenes/img.jpg)
