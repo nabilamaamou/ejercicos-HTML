@@ -1,5 +1,4 @@
-# prueba
-prueba para llmm con archivo readme.md
+# prueba para llmm con archivo readme.md
 
 **Hola**
 
