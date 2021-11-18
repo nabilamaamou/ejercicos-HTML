@@ -10,7 +10,7 @@ Ejercicios|Descripción
 [Html](/LMAR/ejercicio1.html)|ejercicio 1
 [Html](/LMAR/ejercicio2.html)|ejercicio 2
 [Html](/LMAR/ejercicio4.html)|ejercicio 4
-[Html](/LMAR/ejercicio5 y 6 y7.html)|ejercicio 5,6,7
+[Html](/LMAR/ejercicio5y6y7.html)|ejercicio 5,6,7
 [Html](/LMAR/misitio)|ejercicio 8
 [Html](/LMAR/ejercicio9.html)|ejercicio 9
 [Html](/LMAR/ejercicio10.html)|ejercicio 10 
