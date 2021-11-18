@@ -7,7 +7,7 @@ _hola como **estas**_
 
 Ejercicios|Descripción
 -----------|---------
-[Html](/LMAR/ejercicio1.html)|ejercicio 1
+[Html](/tema1/ejercicio1.html)|ejercicio 1
 [Html](/tema1/ejercicio2.html)|ejercicio 2
 [Html](/tema1/ejercicio4.html)|ejercicio 4
 [Html](/tema1/ejercicio5 y 6 y7.html)|ejercicio 5,6,7
