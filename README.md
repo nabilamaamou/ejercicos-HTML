@@ -8,7 +8,8 @@ _¿hola como **estas?**_
 Ejercicios|Descripción
 -----------|---------
 [Html](/LMAR/ejercicio1.html)|ejercicio 1 etiqueta de parrafo y parrafo
-[Html](/LMAR/ejercicio2.html)|ejercicio 2  niveles de cabecera
+[Html](/LMAR/ejercicio2.html)|ejercicio 2  de cabecera
+[Html](/LMAR/ejercicio3.html)|ejercicio 3  etiqueta "strong"
 [Html](/LMAR/ejercicio4.html)|ejercicio 4 aspactos que usamos en html como un texto 
 [Html](/LMAR/ejercicio5y6y7.html)|ejercicio 5,6,7 parrafos con alineación
 [Html](/LMAR/misitio)|ejercicio 8 links
