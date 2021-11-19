@@ -17,6 +17,6 @@ Ejercicios|Descripción
 [Html](/LMAR/ejercicio11.html)|ejercicio 11
 [Html](/LMAR/ejercicio12.html)|ejercicio 12
 [Html](/LMAR/ejercicio13.html)|ejercicio 13 
-[Html](/LMAR/Ejercicio14-copia.html)|ejercicio 14
+[Html](/LMAR/ejercicio14 - copia.html)|ejercicio 14
 [Html](/LMAR/ejercicio15.html)|ejercicio 15
 [Html](/LMAR/Ejercicio16.html)|ejercicio 16
