@@ -7,16 +7,16 @@ _¿hola como **estas?**_
 
 Ejercicios|Descripción
 -----------|---------
-[Html](/LMAR/ejercicio1.html)|ejercicio 1
-[Html](/LMAR/ejercicio2.html)|ejercicio 2
-[Html](/LMAR/ejercicio4.html)|ejercicio 4
-[Html](/LMAR/ejercicio5y6y7.html)|ejercicio 5,6,7
-[Html](/LMAR/misitio)|ejercicio 8
-[Html](/LMAR/Ejercicio9.html)|ejercicio 9
-[Html](/LMAR/ejercicio10.html)|ejercicio 10 
-[Html](/LMAR/ejercicio11.html)|ejercicio 11
-[Html](/LMAR/ejercicio12.html)|ejercicio 12
-[Html](/LMAR/ejercicio13.html)|ejercicio 13 
-[Html](/LMAR/ejercicio14.html)|ejercicio 14
-[Html](/LMAR/ejercicio15.html)|ejercicio 15
-[Html](/LMAR/Ejercicio16.html)|ejercicio 16
+[Html](/LMAR/ejercicio1.html)|ejercicio 1 etiqueta de parrafo y parrafo
+[Html](/LMAR/ejercicio2.html)|ejercicio 2  niveles de cabecera
+[Html](/LMAR/ejercicio4.html)|ejercicio 4 aspactos que usamos en html como un texto 
+[Html](/LMAR/ejercicio5y6y7.html)|ejercicio 5,6,7 parrafos con alineación
+[Html](/LMAR/misitio)|ejercicio 8 links
+[Html](/LMAR/Ejercicio9.html)|ejercicio 9 etiqueta de enlace, parrafo y cabecera
+[Html](/LMAR/ejercicio10.html)|ejercicio 10 enlace dentro de una carpeta
+[Html](/LMAR/ejercicio11.html)|ejercicio 11 formas
+[Html](/LMAR/ejercicio12.html)|ejercicio 12 color de texto, alineaciónletra y verdana
+[Html](/LMAR/ejercicio13.html)|ejercicio 13 borde
+[Html](/LMAR/ejercicio14.html)|ejercicio 14 margin y padding
+[Html](/LMAR/ejercicio15.html)|ejercicio 15 Tabla
+[Html](/LMAR/Ejercicio16.html)|ejercicio 16 Tabla
