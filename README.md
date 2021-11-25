@@ -23,6 +23,6 @@ Ejercicios|Descripción
 [Html](/LMAR/Ejercicio16.html)|ejercicio 16 Tabla
 [Html](/LMAR/ejercicio17)|ejercicio 17
 [Html](/LMAR/Tabla18)|ejercicio 18
-[Html](/LMAR/Ejercicio19)|ejercicio 19
+[Html](/LMAR/Ejercico19)|ejercicio 19
 [Html](/LMAR/Ejercicio20)|ejercicio 20
 [Html](/LMAR/Ejercicio21)ejercicio 21
