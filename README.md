@@ -21,8 +21,8 @@ Ejercicios|Descripción
 [Html](/LMAR/ejercicio14.html)|ejercicio 14 margin y padding
 [Html](/LMAR/ejercicio15.html)|ejercicio 15 Tabla
 [Html](/LMAR/Ejercicio16.html)|ejercicio 16 Tabla
-[Html](/LMAR/ejercicio17.html)|ejercicio 17
-[Html](/LMAR/Tabla18.html)|ejercicio 18
-[Html](/LMAR/Ejercicio19.html)|ejercicio 19
-[Html](/LMAR/Ejercicio20.html)|ejercicio 20
-[Html](/LMAR/Ejercicio21.html)|ejercicio 21
+[Html](/LMAR/ejercicio17)|ejercicio 17
+[Html](/LMAR/Tabla18)|ejercicio 18
+[Html](/LMAR/Ejercicio19)|ejercicio 19
+[Html](/LMAR/Ejercicio20)|ejercicio 20
+[Html](/LMAR/Ejercicio21)ejercicio 21
