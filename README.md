@@ -27,13 +27,13 @@ Ejercicios|Descripción
 [Html](/LMAR/Ejercicio20)|ejercicio 20
 [Html](/LMAR/Ejercicio21)|ejercicio 21
 [Html](/LMAR/proyecto)|proyecto
-[html](/LMAR/ejercicio 25-Formularios)|ejercicio html 25
-[html](/LMAR/ejercicio 24-formularios)|ejercicio html 24
+[html](/LMAR/ejercicio25-Formularios)|ejercicio html 25
+[html](/LMAR/ejercicio24-formularios)|ejercicio html 24
 [css](/LMAR/ejercicio1)|ejercicio 1 css
 [css](/LMAR/ejercicio2css)|ejercicio 2 css
 [css](/LMAR/ejercicio3css)|ejercicio 3 css
-[css](/LMAR/ejercicio4 css)|ejercicio 4 css
-[css](/LMAR/ejercicio5 css)|ejercicio 5 css
-[css](/LMAR/ejercicio8 css)|ejercicio 8 css
-[css](/LMAR/ejercicio9 css)|ejercicio 9 css
-[css](/LMAR/ejercicio10 css)|ejercicio 10 css
+[css](/LMAR/ejercicio4css)|ejercicio 4 css
+[css](/LMAR/ejercicio5css)|ejercicio 5 css
+[css](/LMAR/ejercicio8css)|ejercicio 8 css
+[css](/LMAR/ejercicio9css)|ejercicio 9 css
+[css](/LMAR/ejercicio10css)|ejercicio 10 css
