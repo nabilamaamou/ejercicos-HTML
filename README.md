@@ -29,7 +29,7 @@ Ejercicios|Descripción
 [Html](/LMAR/proyecto)|proyecto
 [html](/LMAR/ejercicio25-Formularios)|ejercicio html 25
 [html](/LMAR/ejercicio24-formularios)|ejercicio html 24
-[css](/LMAR/ejercicio1)|ejercicio 1 css
+[css](/LMAR/ejercicio1css)|ejercicio 1 css
 [css](/LMAR/ejercicio2css)|ejercicio 2 css
 [css](/LMAR/ejercicio3css)|ejercicio 3 css
 [css](/LMAR/ejercicio4css)|ejercicio 4 css
