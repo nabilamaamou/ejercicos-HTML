@@ -30,8 +30,8 @@ Ejercicios|Descripción
 [html](/LMAR/ejercicio 25-Formularios)|ejercicio html 25
 [html](/LMAR/ejercicio 24-formularios)|ejercicio html 24
 [css](/LMAR/ejercicio1)|ejercicio 1 css
-[css](/LMAR/ejercicio2 css)|ejercicio 2 css
-[css](/LMAR/ejercicio3 css)|ejercicio 3 css
+[css](/LMAR/ejercicio2css)|ejercicio 2 css
+[css](/LMAR/ejercicio3css)|ejercicio 3 css
 [css](/LMAR/ejercicio4 css)|ejercicio 4 css
 [css](/LMAR/ejercicio5 css)|ejercicio 5 css
 [css](/LMAR/ejercicio8 css)|ejercicio 8 css
