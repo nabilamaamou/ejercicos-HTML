@@ -1,0 +1,18 @@
+.logo{
+    color: blue;
+    font-family: Georgia;
+    background:lightgray ;
+    font-weight: bold;
+    size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+}
+h3.datos1{
+    font-family: Georgia;
+    color: rgb(241, 50, 50);
+    size: 18px;
+    letter-spacing: 1.4em;
+    font-weight: bold;
+}
+
