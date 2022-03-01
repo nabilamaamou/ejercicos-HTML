@@ -27,7 +27,6 @@ Ejercicios|Descripción
 [Html](/LMAR/Ejercicio20)|ejercicio 20
 [Html](/LMAR/Ejercicio21)|ejercicio 21
 [Html](/LMAR/proyecto)|proyecto
-
 [css](/LMAR/ejercicio 25-Formularios)|ejercicio html 25
 [css](/LMAR/ejercicio 24-formularios)|ejercicio html 24
 [css](/LMAR/ejercicio1)|ejercicio 1 css
