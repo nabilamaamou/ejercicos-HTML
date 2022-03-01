@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    scroll-behavior: smooth
+}
+header{
+background-color: rgb(187, 214, 214);
+width: 100%;
+position: fixed;
+z-index: 999;/*para que no queta */
+display: flex;
+justify-content: space-between;/*espacio ester los dos logo y navigation*/
+padding: 10px 100px;/*espacio de derecha 200 y espacio de esquirda 200 y de abajo y de arriba 10*/
+
+
+}
+.logo{
+text-decoration: none;
+color: #3a3a3a;
+text-transform: uppercase;/*para que sera las letras en mayuscula*/
+font-weight:700 ;/*para que sera las letras más grande*/
+font-size: 1.8em;
+
+}
+.logo:hover{
+    color: #9e8cb9 ;
+}
+.navigation a{
+ color: #3a3a3a;
+ text-decoration: none;
+ font-size: 1.1em;
+ font-weight:500;
+ padding-left:30px;
+ 
+}
+.navigation a:hover{
+ color: #9e8cb9 ;/*para cambiar el color cuando pecha en alguno de ellos*/
+}

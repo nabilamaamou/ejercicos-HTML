@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+<h1>test form</h1>
+<p>exampel</p>
+<!--
+    --action es link que vas a enviar estos datos 
+    -- name para regestrar datos 
+    -- se usa method para que no esta en el link arriba
+    --reset para eliminar los datos
+    -- hidden esta con los datos pero no puedes ver la
+    -- con el readonly no puedes ni cambiar el valoro es para solo leer
+    --disabled
+!-->
+<form action="" method="post ">
+    <input type="hidden" value="usama">
+    <input type="hidden" value="254">
+<div><label>Name</label>
+    <input  type="text" placeholder="Username" name="user" readonly
+    value="Nabila" ></div>
+<br>
+
+<div><label>Subject</label>
+    <input  type="text" name="subject"></div>
+<br>
+<div><label>password</label>
+    <input type="password" required placeholder="Write a complex password" name="pass"></div>
+
+<br>
+<div><label>email</label>
+    <input type="email" required value="nabila@gmail.com" name="mail" disabled></div><br>
+    <div><label>color</label>
+        <input  type="color" name="color"></div>
+        <div><label>range</label>
+            <input type="range" name="range" min="0" max="100" step="20" value="0"></div>
+            <div><label>number</label>
+                <input type="number" name="number" min="0" max="100" step="5" name="number"></div>
+    <input type="submit" value="save">
+<input type="reset" value="reset">
+</form>
+</body>
+</html>
